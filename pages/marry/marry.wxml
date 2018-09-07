@@ -1,0 +1,18 @@
+
+<view class='lay' >
+    <image class="login-img" src="../../imgs/marry.jpg"></image> 
+
+    <view class='card'>
+      <view class='header'>
+        <text>潇潇:</text>
+        <text style='color:#8B2252; font-size:45rpx'> 嫁给我好吗？</text>
+      </view>
+     
+    </view>
+
+    <button bindtap="buttonOk"class='button button1'>我愿意</button>
+    <button bindtap="buttonMove" hover-class="none"class='button button2'style="background-color:red; position: absolute;    right: {{right}}rpx;    bottom: {{bottom}}rpx;">不愿意</button>
+
+    
+</view>
+

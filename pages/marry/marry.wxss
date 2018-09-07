@@ -1,0 +1,49 @@
+.lay{
+  height: 900rpx;
+  width: 100%;
+  background-color: white;
+}
+.login-img{ 
+ width: 500rpx; 
+} 
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15rpx 22rpx;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+    transition-duration: 0.4s;
+}
+
+.button1 {
+    position: absolute;
+    left: 150rpx;
+    bottom: 300rpx;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.button2 {
+    
+    
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+
+.card {
+  width: 750rpx;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  
+}
+
+.header {
+    background-color: rgba(163, 76, 175, 0.13);
+    color:#CD5C5C;
+    padding: 10rpx 150rpx;
+    font-size: 30px;
+}
+
